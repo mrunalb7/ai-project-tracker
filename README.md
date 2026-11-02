@@ -60,6 +60,3 @@ data/             Sample tracker + sample meeting notes (all fictional)
 - The fallback extractor is basic; the AI path is more accurate but must always be reviewed.
 - Next: Teams/Outlook calendar integration, Power BI export, multi-language comms, role-based access.
 
-## What I learned
-
-See `INTERVIEW_PREP.md` for the AI review log and lessons.
